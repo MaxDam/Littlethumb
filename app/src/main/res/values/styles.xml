@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="background">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:textColor">@color/globalForeground</item>
+        <item name="android:background">@color/globalBackground</item>
+    </style>
+
+    <style name="textview" parent="@style/background"></style>
+
+    <style name="listview" parent="@style/background">
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="popuptext">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">18dp</item>
+    </style>
+
+    <style name="button" parent="@android:style/Widget.Button">
+        <item name="android:textColor">#fff</item>
+        <item name="android:background">@drawable/btn_blue</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+
+    <style name="application" parent="android:Theme">
+        <item name="android:buttonStyle">@style/button</item>
+    </style>
+    
+    <style name="list_item">
+        <item name="android:layout_margin">0dp</item>
+        <!-- <item name="android:background">@drawable/list_background</item> -->
+        <item name="android:padding">5dp</item>
+        <item name="android:text">@string/unknown</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+    <style name="list_item_equal" parent="@style/list_item">
+        <item name="android:textColor">#000</item>
+        
+    </style>
+    
+    <style name="list_item_unequal" parent="@style/list_item">
+        <item name="android:textColor">#999</item>
+        
+    </style>
+
+</resources>

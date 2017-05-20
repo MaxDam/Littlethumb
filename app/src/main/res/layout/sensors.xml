@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/sensors_layout"
+    style="@style/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/globalBackground"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <!-- <TextView -->
+    <!-- android:id="@+id/sensors_accelerometer_label" -->
+    <!-- android:layout_width="match_parent" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:text="@string/sensors_accelerometer_label" -->
+    <!-- android:textColor="@color/globalForeground" /> -->
+
+
+    <!-- <TextView -->
+    <!-- android:id="@+id/sensors_accelerometer_text" -->
+    <!-- android:layout_width="match_parent" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:text="@string/sensors_accelerometer_text" -->
+    <!-- android:textColor="@color/globalForeground" /> -->
+
+
+    <!-- <TextView -->
+    <!-- android:id="@+id/sensors_gyroscope_label" -->
+    <!-- android:layout_width="match_parent" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:text="@string/sensors_gyroscope_label" -->
+    <!-- android:textColor="@color/globalForeground" /> -->
+
+
+    <!-- <TextView -->
+    <!-- android:id="@+id/sensors_gyroscope_text" -->
+    <!-- android:layout_width="match_parent" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:text="@string/sensors_gyroscope_text" -->
+    <!-- android:textColor="@color/globalForeground" /> -->
+
+
+    <!-- <com.jjoe64.graphview.LineGraphView -->
+    <!-- android:id="@+id/sensors_graphview" -->
+    <!-- android:layout_width="match_parent" -->
+    <!-- android:layout_height="wrap_content" -->
+
+
+    <!-- /> -->
+
+    <TableLayout
+        android:id="@+id/sensors_table"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="2dp"
+        android:stretchColumns="1" >
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp" >
+
+            <TextView
+                android:id="@+id/sensors_scan_label"
+                style="@style/textview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:text="@string/sensors_scan_label" />
+
+            <ToggleButton
+                android:id="@+id/sensors_scan_toggle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="ToggleButton" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp" >
+
+            <TextView
+                android:id="@+id/sensors_update_label"
+                style="@style/textview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:text="@string/sensors_update_label" />
+
+            <SeekBar
+                android:id="@+id/sensors_update_seekbar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp" >
+
+            <TextView
+                android:id="@+id/sensors_valuecount_label"
+                style="@style/textview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:text="@string/sensors_valuecount_label" />
+
+            <SeekBar
+                android:id="@+id/sensors_valuecount_seekbar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>

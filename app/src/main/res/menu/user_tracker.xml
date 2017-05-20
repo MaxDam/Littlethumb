@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item 
+	    android:id="@+id/chooseAlgorithm" 
+	    android:icon="@drawable/algorithm"
+		android:title="@string/choose_algorithm">
+	</item>
+	<item
+        android:id="@+id/project_site_menu_change_scan_interval"
+        android:icon="@drawable/scan_interval"
+        android:title="@string/project_site_menu_change_scan_interval">
+    </item>
+    <item
+        android:icon="@drawable/fences"
+        android:title="@string/project_site_fences">
+        <menu>
+            <item
+		        android:id="@+id/project_site_menu_rectangle_area"
+		        android:icon="@drawable/rectangle_area"
+		        android:title="@string/project_site_rectangle_area">
+		    </item>
+		    <item
+		        android:id="@+id/project_site_menu_circle_area"
+		        android:icon="@drawable/circle_area"
+		        android:title="@string/project_site_circle_area">
+		    </item>
+		    <item
+		        android:id="@+id/project_site_menu_delete_fences"
+		        android:title="@string/project_site_delete_fences">
+		    </item>
+		    <item
+		        android:id="@+id/project_site_menu_check_fences"
+		        android:title="@string/project_site_check_fences">
+		    </item>
+		    </menu>
+	</item> 
+    
+</menu>

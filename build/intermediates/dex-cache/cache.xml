@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/max/AndroidStudioProjects/Littlethumb/app/libs/ormlite-core-4.40.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="d7976f5453d7ae230a3bde9125912dcdb6c7b748">
+        <dex dex="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/pre-dexed/debug/ormlite-core-4.40-0e0be702185eeec208c825a0c72121a24e7530cb.jar" />
+    </item>
+    <item
+        jar="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/pre-dexed/debug/classes-16e4c1eb55b6c7650e54adf305b150826406038f.jar" />
+    </item>
+    <item
+        jar="/Users/max/AndroidStudioProjects/Littlethumb/app/libs/ormlite-core-4.40.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d7976f5453d7ae230a3bde9125912dcdb6c7b748">
+        <dex dex="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/pre-dexed/debug/ormlite-core-4.40-0e0be702185eeec208c825a0c72121a24e7530cb.jar" />
+    </item>
+    <item
+        jar="/Users/max/AndroidStudioProjects/Littlethumb/app/libs/GraphView-2.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="601736461e15107127ef058f3dee5e0197242558">
+        <dex dex="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/pre-dexed/debug/GraphView-2.0-24d7f4ce94e2829341ca9ed56c3223760a6399d3.jar" />
+    </item>
+    <item
+        jar="/Users/max/AndroidStudioProjects/Littlethumb/app/libs/commons-math3-3.3.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="a85dc3aa929de625606270ae69a343cda69b7670">
+        <dex dex="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/pre-dexed/debug/commons-math3-3.3-86fa070c346a61fbc7ac1df0ccefe39d796df7e1.jar" />
+    </item>
+    <item
+        jar="/Users/max/AndroidStudioProjects/Littlethumb/app/libs/Jama-1.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="10027ce1ef383e5c8b1d4f82eaa0dc8587647149">
+        <dex dex="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/pre-dexed/debug/Jama-1.0.2-8b683f6bb066d52d8d1173fd0749aafbbb2a814d.jar" />
+    </item>
+    <item
+        jar="/Users/max/AndroidStudioProjects/Littlethumb/app/libs/org.json-20120521.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e04ebf63b984b19433748f06d50c1aba995a6292">
+        <dex dex="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/pre-dexed/debug/org.json-20120521-527ac9e46789f658adafca93794725121f0deb07.jar" />
+    </item>
+    <item
+        jar="/Users/max/AndroidStudioProjects/Littlethumb/app/libs/ormlite-android-4.40.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c0b48b3ffce4d92cc95596906ff804e2d1cbaa05">
+        <dex dex="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/pre-dexed/debug/ormlite-android-4.40-862b92bfdb82bdd87dd06bddbd60833a8b4494e5.jar" />
+    </item>
+    <item
+        jar="/Users/max/AndroidStudioProjects/Littlethumb/app/libs/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/pre-dexed/debug/gson-2.2.4-c4e119cb72476f11224b256605496ef3760e45cd.jar" />
+    </item>
+    <item
+        jar="/Users/max/AndroidStudioProjects/Littlethumb/app/libs/acra-4.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44a5eb946e0d83eed4a0128d877ca1fd8168b83a">
+        <dex dex="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/pre-dexed/debug/acra-4.5.0-de2931df9efbe005f13659a796bb844d37e819f5.jar" />
+    </item>
+    <item
+        jar="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/pre-dexed/debug/classes-d5d936ffc2f6846b36067e88a54a439551a3c214.jar" />
+    </item>
+    <item
+        jar="/Users/max/AndroidStudioProjects/Littlethumb/app/libs/org.json-20120521.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="e04ebf63b984b19433748f06d50c1aba995a6292">
+        <dex dex="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/pre-dexed/debug/org.json-20120521-527ac9e46789f658adafca93794725121f0deb07.jar" />
+    </item>
+    <item
+        jar="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e75dcf6f1792a189220ce87f6eba6d47d1be2bf5.jar" />
+    </item>
+    <item
+        jar="/Users/max/adt-bundle-mac-x86_64-20140321/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-54d5785d08c49af3e72e862f47a5322420016c58.jar" />
+    </item>
+    <item
+        jar="/Users/max/adt-bundle-mac-x86_64-20140321/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-54d5785d08c49af3e72e862f47a5322420016c58.jar" />
+    </item>
+    <item
+        jar="/Users/max/AndroidStudioProjects/Littlethumb/app/libs/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/pre-dexed/debug/gson-2.2.4-c4e119cb72476f11224b256605496ef3760e45cd.jar" />
+    </item>
+    <item
+        jar="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/pre-dexed/debug/classes-d5d936ffc2f6846b36067e88a54a439551a3c214.jar" />
+    </item>
+    <item
+        jar="/Users/max/AndroidStudioProjects/Littlethumb/app/libs/ormlite-android-4.40.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="c0b48b3ffce4d92cc95596906ff804e2d1cbaa05">
+        <dex dex="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/pre-dexed/debug/ormlite-android-4.40-862b92bfdb82bdd87dd06bddbd60833a8b4494e5.jar" />
+    </item>
+    <item
+        jar="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e75dcf6f1792a189220ce87f6eba6d47d1be2bf5.jar" />
+    </item>
+    <item
+        jar="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/pre-dexed/debug/classes-16e4c1eb55b6c7650e54adf305b150826406038f.jar" />
+    </item>
+    <item
+        jar="/Users/max/AndroidStudioProjects/Littlethumb/app/libs/GraphView-2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="601736461e15107127ef058f3dee5e0197242558">
+        <dex dex="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/pre-dexed/debug/GraphView-2.0-24d7f4ce94e2829341ca9ed56c3223760a6399d3.jar" />
+    </item>
+    <item
+        jar="/Users/max/AndroidStudioProjects/Littlethumb/app/libs/acra-4.5.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="44a5eb946e0d83eed4a0128d877ca1fd8168b83a">
+        <dex dex="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/pre-dexed/debug/acra-4.5.0-de2931df9efbe005f13659a796bb844d37e819f5.jar" />
+    </item>
+    <item
+        jar="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.3/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="c03ce2629e2f87b0643d1e78c0d62fd10edb4f3b">
+        <dex dex="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/pre-dexed/debug/classes-f98842ee378e0194b3a002856f687faaee312395.jar" />
+    </item>
+    <item
+        jar="/Users/max/AndroidStudioProjects/Littlethumb/app/libs/Jama-1.0.2.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="10027ce1ef383e5c8b1d4f82eaa0dc8587647149">
+        <dex dex="/Users/max/AndroidStudioProjects/Littlethumb/app/build/intermediates/pre-dexed/debug/Jama-1.0.2-8b683f6bb066d52d8d1173fd0749aafbbb2a814d.jar" />
+    </item>
+
+</items>
